@@ -1,5 +1,5 @@
 def fun1():
-  print("hello")
+  print("hi")
  
 def fun2():
   print("world")
